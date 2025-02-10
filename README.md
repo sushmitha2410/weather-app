@@ -7,9 +7,6 @@ A simple Next.js weather application that fetches real-time weather updates base
 Tech Stack  
 Frontend: Next.js, React, TypeScript, Tailwind CSS  
 API: OpenWeather API (for weather data)  
-State Management: React Hooks (useState, useEffect)  
-Authentication: Local Storage (for user login details)  
-UI Components: Radix UI (Tooltip)  
 Deployment: Vercel  
 
 Features  
